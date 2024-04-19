@@ -1,0 +1,8 @@
+﻿  zadanie12.cpp
+C:\Users\andre\OneDrive\Рабочий стол\zadanie12\zadanie12\zadanie12.cpp(132,20): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\andre\OneDrive\Рабочий стол\zadanie12\zadanie12\zadanie12.cpp(422,23): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\andre\OneDrive\Рабочий стол\zadanie12\zadanie12\zadanie12.cpp(438,31): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\andre\OneDrive\Рабочий стол\zadanie12\zadanie12\zadanie12.cpp(440,35): warning C4244: инициализация: преобразование "LRESULT" в "DWORD", возможна потеря данных
+C:\Users\andre\OneDrive\Рабочий стол\zadanie12\zadanie12\zadanie12.cpp(480,44): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\andre\OneDrive\Рабочий стол\zadanie12\zadanie12\zadanie12.cpp(508,45): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+  zadanie12.vcxproj -> C:\Users\andre\OneDrive\Рабочий стол\zadanie12\x64\Debug\zadanie12.exe
